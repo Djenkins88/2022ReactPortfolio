@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/2022reactportfolio/static/css/main.ac1dc75f.css",
+    "main.js": "/2022reactportfolio/static/js/main.c2110ba1.js",
+    "static/media/Amazonpic.png": "/2022reactportfolio/static/media/Amazonpic.8d0b7971b7933f09fcbb.png",
+    "static/media/WeatherForecast.png": "/2022reactportfolio/static/media/WeatherForecast.455525ae36958ae8bfe8.png",
+    "static/media/BudgetTracker.png": "/2022reactportfolio/static/media/BudgetTracker.dd61b80163d94f13d7f9.png",
+    "static/media/img1.jpg": "/2022reactportfolio/static/media/img1.76ecdb2d09f4c120996e.jpg",
+    "static/media/TechBlog.png": "/2022reactportfolio/static/media/TechBlog.f06b0521294275ca06b2.png",
+    "static/media/FitnessTracker.png": "/2022reactportfolio/static/media/FitnessTracker.0cc5c4a96151a2e08924.png",
+    "static/media/img5.png": "/2022reactportfolio/static/media/img5.eb105fbbfb1112c72276.png",
+    "static/media/img2.png": "/2022reactportfolio/static/media/img2.1d7b133e22ffe4829da6.png",
+    "static/media/img8.png": "/2022reactportfolio/static/media/img8.3540c241af1d9b798bb9.png",
+    "static/media/NoteTaker.png": "/2022reactportfolio/static/media/NoteTaker.1dcb23864a41e1be1f12.png",
+    "static/media/img10.png": "/2022reactportfolio/static/media/img10.ece61a5e4d67f525d140.png",
+    "static/media/img11.png": "/2022reactportfolio/static/media/img11.971205269f3fda4bc54d.png",
+    "static/media/img3.png": "/2022reactportfolio/static/media/img3.9f33c557b92e4e2e1cc8.png",
+    "static/media/img4.png": "/2022reactportfolio/static/media/img4.a2a16f087e18d50f3d99.png",
+    "static/media/img6.png": "/2022reactportfolio/static/media/img6.e71346fe0fec16ec5f6e.png",
+    "static/media/img12.png": "/2022reactportfolio/static/media/img12.24793fd6bc7a501efd27.png",
+    "index.html": "/2022reactportfolio/index.html",
+    "main.ac1dc75f.css.map": "/2022reactportfolio/static/css/main.ac1dc75f.css.map",
+    "main.c2110ba1.js.map": "/2022reactportfolio/static/js/main.c2110ba1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1dc75f.css",
+    "static/js/main.c2110ba1.js"
+  ]
+}
