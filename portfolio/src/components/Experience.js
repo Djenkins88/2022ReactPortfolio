@@ -8,7 +8,7 @@ import img8 from '../images/img8.png'
 import img10 from '../images/img10.png'
 import img11 from '../images/img11.png'
 import img12 from '../images/img12.png'
-import img13 from '../images/img13.png'
+
 
 function Experience() {
 
@@ -81,7 +81,7 @@ function Experience() {
                 {
                     techs.map(({ id, src, title, style }) => (
                         <div key={id} className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
-                            <img src={src} alt='' className='object-scale-down h-20 w-50  mx-auto'/>
+                            <img src={src} alt='' className='h-20 w-50  mx-auto'/>
                             <p className='mt-4'>{title}</p>
                         </div>
                     ))
