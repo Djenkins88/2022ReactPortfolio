@@ -1,8 +1,12 @@
 {
+  "homepage": "https://Djenkins88.github.io/2022reactportfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Djenkins88.github.io/2022reactportfolio",
+  "main": "index.js",
+  "engines": {
+    "node": "14.17.6"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
