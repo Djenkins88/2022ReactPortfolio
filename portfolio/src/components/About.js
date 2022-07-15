@@ -12,13 +12,11 @@ function About() {
             </div>
 
             <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-            It has survived not only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-            sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like
-            Aldus PageMaker including versions of Lorem Ipsum.
+            My name is Dominque Jenkins im from a small town called Jena, it's in Louisana. 
+            I moved to Texas about five years ago for better opportunities. 
+            I've always been into tech so i finally decided to give it a try and i like it like alot. 
+            So when i not practicing my coding or learning a new technolgy I like reading learning new
+            things espically in the tech field, gaming, four wheelers, and the gym.
             </p>
         <br/>
         </div>
