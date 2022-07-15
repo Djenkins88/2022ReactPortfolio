@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/2022reactportfolio/static/css/main.ac1dc75f.css",
-    "main.js": "/2022reactportfolio/static/js/main.c2110ba1.js",
+    "main.js": "/2022reactportfolio/static/js/main.62cde94f.js",
     "static/media/Amazonpic.png": "/2022reactportfolio/static/media/Amazonpic.8d0b7971b7933f09fcbb.png",
     "static/media/WeatherForecast.png": "/2022reactportfolio/static/media/WeatherForecast.455525ae36958ae8bfe8.png",
     "static/media/BudgetTracker.png": "/2022reactportfolio/static/media/BudgetTracker.dd61b80163d94f13d7f9.png",
@@ -20,10 +20,10 @@
     "static/media/img12.png": "/2022reactportfolio/static/media/img12.24793fd6bc7a501efd27.png",
     "index.html": "/2022reactportfolio/index.html",
     "main.ac1dc75f.css.map": "/2022reactportfolio/static/css/main.ac1dc75f.css.map",
-    "main.c2110ba1.js.map": "/2022reactportfolio/static/js/main.c2110ba1.js.map"
+    "main.62cde94f.js.map": "/2022reactportfolio/static/js/main.62cde94f.js.map"
   },
   "entrypoints": [
     "static/css/main.ac1dc75f.css",
-    "static/js/main.c2110ba1.js"
+    "static/js/main.62cde94f.js"
   ]
 }
